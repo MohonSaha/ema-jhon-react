@@ -33,6 +33,7 @@
     color: #0E161A;
 }
 
+
 .add-cart{
     border: 1px solid silver;
     background-color: #FFE0BC;
@@ -46,6 +47,8 @@
 
 .add-cart:hover{
     background-color: orange;
+    border-top: 2px solid rgb(86, 86, 86); 
+    font-weight: 600;
 }
 
 

@@ -1,0 +1,11 @@
+.order-details{
+    text-align: left;
+}
+
+.order-details p{
+    margin-top: 20px;
+}
+
+.order-details :last-child{
+    font-weight: 600;
+}
